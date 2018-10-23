@@ -7,3 +7,4 @@ The world of GBCs has given me a lot of enjoyment, so i'm making an effort to gi
 
 <P>With XL drive unit and multiple unpowered modules: https://youtu.be/Er4561olfLA
 
+<P>You might also like The Great Ball Of China: https://www.youtube.com/watch?v=Vlvy_arx3Xg
