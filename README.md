@@ -3,6 +3,7 @@ The world of GBCs has given me a lot of enjoyment, so i'm making an effort to gi
 
 <P>Video: https://youtu.be/tmA43wl0P4w
 <BR>Instructions: https://github.com/rykfield/REF01-Industrial-Bucket/blob/master/REF01%20-%20Industrial%20Bucket.pdf
+<BR>Parts List: https://github.com/rykfield/REF01-Industrial-Bucket/blob/master/REF01%20-%20Industrial%20Bucket.xml
 
 <P>Extension Bucket
 <BR>Video: https://youtu.be/JhjmXGg11PA
