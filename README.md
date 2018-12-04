@@ -6,7 +6,7 @@
 The world of GBCs has given me a lot of enjoyment, so i'm making an effort to give back to the community.  The Industrial Bucket is my first published GBC design.  The stepper is based on an Akiyuki mechanism and the bucket tipper is based on the Philo "Shovel" from 2005.<BR><BR>
 
 <P><b>Module</b>
-<P>Video: https://youtu.be/tmA43wl0P4w
+<BR>Video: https://youtu.be/tmA43wl0P4w
 <BR>Instructions: https://github.com/rykfield/REF01-Industrial-Bucket/raw/master/REF01%20-%20Industrial%20Bucket.pdf
 <BR>Parts List: https://github.com/rykfield/REF01-Industrial-Bucket/raw/master/REF01%20-%20Industrial%20Bucket.xml
 
